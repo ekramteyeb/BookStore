@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+<<<<<<< HEAD
 	<section name="RefactoringWizard.preview">
 		<item value="600" key="width"/>
 		<item value="400" key="height"/>
@@ -17,6 +18,8 @@
 	<section name="NewPackageWizardPage">
 		<item value="false" key="create_package_info_java"/>
 	</section>
+=======
+>>>>>>> 831d77e47512b3b19d7b2cfff433280d517f4a6d
 	<section name="quick_assist_proposal_size">
 	</section>
 	<section name="completion_proposal_size">
