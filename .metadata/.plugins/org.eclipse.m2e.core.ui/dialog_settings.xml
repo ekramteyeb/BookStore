@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore"/>
 			<item value="C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore"/>
 		</list>
 		<list key="projectNameTemplate">
