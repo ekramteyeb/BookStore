@@ -1,0 +1,26 @@
+package com.course.bookstore.web;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.course.bookstore.domain.BookRepository;
+
+@Controller
+public class BookControllers {
+
+	@Autowired
+	private BookRepository srepository;
+	
+	
+	@RequestMapping(value="/")
+	public String home(){
+		
+		return "index";
+	}
+	@RequestMapping(value="/index")
+	public String index(){
+		
+		return "index";
+	}
+}
