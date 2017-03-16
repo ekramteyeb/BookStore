@@ -1008,3 +1008,368 @@
 2017-03-13 22:16:11,159 [Worker-485] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2017-03-13 22:16:11,173 [Worker-485] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-03-13 22:16:11,181 [Worker-485] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-13 23:01:26,994 [Worker-499] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.course.bookstore:bookstore.course.com:0.0.1-SNAPSHOT @ C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\pom.xml.
+2017-03-13 23:01:31,655 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-13 23:01:31,668 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-13 23:01:31,682 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-13 23:01:31,687 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-13 23:01:31,704 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-13 23:01:34,291 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-13 23:01:34,300 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-13 23:01:34,481 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-13 23:01:35,612 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-13 23:01:35,674 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-13 23:03:09,988 [Worker-507] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.course.bookstore:bookstore.course.com:0.0.1-SNAPSHOT @ C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\pom.xml.
+2017-03-13 23:03:10,643 [Worker-507] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-13 23:03:10,652 [Worker-507] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-13 23:03:10,658 [Worker-507] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-13 23:03:10,667 [Worker-507] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-13 23:03:10,667 [Worker-507] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-13 23:06:00,026 [Worker-505] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-13 23:06:00,027 [Worker-505] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-13 23:06:00,029 [Worker-505] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-13 23:06:00,032 [Worker-505] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-13 23:06:00,032 [Worker-505] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-13 23:10:07,042 [Worker-509] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-13 23:10:07,045 [Worker-509] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-13 23:10:07,050 [Worker-509] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-13 23:10:07,062 [Worker-509] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-13 23:10:07,062 [Worker-509] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 00:49:27,892 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:49:27,904 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 00:49:27,935 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 00:49:27,960 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:49:28,009 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 00:50:58,680 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:50:58,689 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 00:50:58,701 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 00:50:58,711 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:50:58,712 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 00:52:42,996 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:52:43,001 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 00:52:43,008 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 00:52:43,016 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:52:43,024 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 00:53:08,921 [Worker-542] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:53:08,931 [Worker-542] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 00:53:08,944 [Worker-542] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 00:53:08,955 [Worker-542] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:53:08,955 [Worker-542] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 00:53:48,465 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:53:48,470 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 00:53:48,482 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 00:53:48,494 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:53:48,502 [Worker-544] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 00:57:32,284 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:57:32,302 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 00:57:32,315 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 00:57:32,332 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:57:32,333 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 00:59:38,912 [Worker-549] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:59:38,915 [Worker-549] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 00:59:38,924 [Worker-549] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 00:59:38,930 [Worker-549] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 00:59:38,931 [Worker-549] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:01:42,448 [Worker-541] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:01:42,454 [Worker-541] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:01:42,458 [Worker-541] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 01:01:42,473 [Worker-541] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:01:42,474 [Worker-541] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:03:28,965 [Worker-553] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:03:28,971 [Worker-553] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:03:28,987 [Worker-553] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 01:03:29,003 [Worker-553] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:03:29,011 [Worker-553] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:03:40,462 [Worker-553] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:03:40,476 [Worker-553] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:03:40,491 [Worker-553] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 01:03:40,506 [Worker-553] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:03:40,506 [Worker-553] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:06:01,495 [Worker-552] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:06:01,499 [Worker-552] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:06:01,506 [Worker-552] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 01:06:01,513 [Worker-552] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:06:01,521 [Worker-552] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:07:53,962 [Worker-554] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:07:53,977 [Worker-554] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:07:53,988 [Worker-554] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 01:07:54,001 [Worker-554] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:07:54,001 [Worker-554] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:08:01,409 [Worker-552] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:08:01,413 [Worker-552] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:08:01,428 [Worker-552] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 01:08:01,443 [Worker-552] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:08:01,452 [Worker-552] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:47:53,383 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:47:53,384 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:47:53,396 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 01:47:53,408 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:47:53,409 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:47:58,096 [Worker-570] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:47:58,102 [Worker-570] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:47:58,109 [Worker-570] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 01:47:58,120 [Worker-570] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:47:58,120 [Worker-570] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:50:41,641 [Worker-555] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:50:41,648 [Worker-555] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:50:41,657 [Worker-555] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 01:50:41,677 [Worker-555] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:50:41,677 [Worker-555] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:52:14,771 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:52:14,776 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:52:14,790 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 01:52:14,804 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:52:14,812 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:52:55,663 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:52:55,675 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:52:55,689 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 01:52:55,736 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:52:55,736 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:54:13,412 [Worker-569] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:54:13,416 [Worker-569] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:54:13,422 [Worker-569] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 01:54:13,427 [Worker-569] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:54:13,434 [Worker-569] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:59:03,002 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:59:03,019 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:59:03,033 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 01:59:03,046 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:59:03,046 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 01:59:47,746 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:59:47,749 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 01:59:47,761 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 01:59:47,773 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 01:59:47,779 [Worker-573] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:03:39,839 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:03:39,846 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:03:39,867 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 02:03:39,884 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:03:39,885 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:04:43,679 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:04:43,683 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:04:43,690 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 02:04:43,696 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:04:43,696 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:07:06,667 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:07:06,667 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:07:06,668 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:07:06,682 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:07:06,683 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:11:46,822 [Worker-574] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:11:46,829 [Worker-574] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:11:46,845 [Worker-574] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 02:11:46,858 [Worker-574] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:11:46,866 [Worker-574] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:12:00,834 [Worker-577] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:12:00,847 [Worker-577] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:12:00,855 [Worker-577] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:12:00,870 [Worker-577] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:12:00,870 [Worker-577] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:12:17,640 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:12:17,640 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:12:17,641 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:12:17,649 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:12:17,657 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:19:54,671 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:19:54,686 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:19:54,705 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 02:19:54,722 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:19:54,722 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:20:30,367 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:20:30,372 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:20:30,383 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 02:20:30,394 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:20:30,400 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:21:42,124 [Worker-577] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:21:42,137 [Worker-577] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:21:42,150 [Worker-577] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 02:21:42,163 [Worker-577] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:21:42,163 [Worker-577] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:22:47,514 [Worker-576] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:22:47,515 [Worker-576] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:22:47,516 [Worker-576] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:22:47,523 [Worker-576] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:22:47,524 [Worker-576] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:24:42,523 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:24:42,524 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:24:42,525 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:24:42,542 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:24:42,543 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:26:53,825 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:26:53,826 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:26:53,841 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:26:53,858 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:26:53,869 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:27:21,802 [Worker-580] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:27:21,811 [Worker-580] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:27:21,820 [Worker-580] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:27:21,835 [Worker-580] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:27:21,835 [Worker-580] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:27:41,944 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:27:41,945 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:27:41,945 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:27:41,952 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:27:41,960 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:28:57,911 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:28:57,922 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:28:57,930 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:28:57,945 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:28:57,945 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:31:50,798 [Worker-574] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:31:50,799 [Worker-574] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:31:50,809 [Worker-574] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:31:50,828 [Worker-574] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:31:50,840 [Worker-574] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:32:36,495 [Worker-583] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:32:36,507 [Worker-583] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:32:36,516 [Worker-583] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:32:36,535 [Worker-583] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:32:36,536 [Worker-583] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:35:25,432 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:35:25,433 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:35:25,433 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:35:25,439 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:35:25,439 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:40:10,362 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:40:10,363 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:40:10,363 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:40:10,374 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:40:10,374 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:40:28,476 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:40:28,477 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:40:28,486 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:40:28,500 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:40:28,511 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:41:17,073 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:41:17,085 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:41:17,091 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:41:17,105 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:41:17,105 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Downloads\StudentListOneToMany\StudentList\src\test\resources
+2017-03-14 02:48:22,866 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:48:22,872 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:48:22,880 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 02:48:22,886 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:48:22,892 [Worker-579] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:50:55,652 [Worker-592] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:50:55,669 [Worker-592] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:50:55,687 [Worker-592] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 02:50:55,702 [Worker-592] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:50:55,702 [Worker-592] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:51:54,173 [Worker-591] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:51:54,178 [Worker-591] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:51:54,192 [Worker-591] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 02:51:54,207 [Worker-591] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:51:54,215 [Worker-591] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 02:57:57,668 [Worker-596] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:57:57,676 [Worker-596] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 02:57:57,685 [Worker-596] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 02:57:57,700 [Worker-596] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 02:57:57,701 [Worker-596] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:00:47,916 [Worker-600] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:00:47,916 [Worker-600] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 03:00:47,916 [Worker-600] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:00:47,922 [Worker-600] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:00:47,922 [Worker-600] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:05:07,984 [Worker-601] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:05:07,990 [Worker-601] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:05:07,997 [Worker-601] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 03:05:08,011 [Worker-601] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:05:08,011 [Worker-601] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:05:35,764 [Worker-599] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:05:35,765 [Worker-599] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 03:05:35,787 [Worker-599] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:05:35,804 [Worker-599] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:05:35,813 [Worker-599] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:07:15,773 [Worker-605] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:07:15,781 [Worker-605] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 03:07:15,787 [Worker-605] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:07:15,801 [Worker-605] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:07:15,801 [Worker-605] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:07:25,299 [Worker-599] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:07:25,299 [Worker-599] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 03:07:25,299 [Worker-599] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:07:25,306 [Worker-599] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:07:25,315 [Worker-599] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:09:27,662 [Worker-595] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:09:27,675 [Worker-595] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:09:27,686 [Worker-595] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 03:09:27,698 [Worker-595] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:09:27,699 [Worker-595] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:13:26,155 [Worker-608] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:13:26,155 [Worker-608] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 03:13:26,163 [Worker-608] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:13:26,178 [Worker-608] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:13:26,184 [Worker-608] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:25:07,237 [Worker-606] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:25:07,245 [Worker-606] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 03:25:07,252 [Worker-606] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:25:07,264 [Worker-606] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:25:07,264 [Worker-606] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:27:18,625 [Worker-606] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:27:18,625 [Worker-606] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 03:27:18,626 [Worker-606] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:27:18,633 [Worker-606] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:27:18,634 [Worker-606] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:29:50,405 [Worker-614] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:29:50,412 [Worker-614] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:29:50,419 [Worker-614] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 03:29:50,434 [Worker-614] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:29:50,434 [Worker-614] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:31:35,886 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:31:35,889 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:31:35,900 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 03:31:35,910 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:31:35,916 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:31:52,006 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:31:52,014 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:31:52,026 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 03:31:52,036 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:31:52,036 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:32:15,614 [Worker-615] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:32:15,619 [Worker-615] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:32:15,625 [Worker-615] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 03:32:15,632 [Worker-615] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:32:15,638 [Worker-615] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:38:36,472 [Worker-609] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:38:36,477 [Worker-609] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:38:36,490 [Worker-609] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-14 03:38:36,502 [Worker-609] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:38:36,503 [Worker-609] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:47:43,132 [Worker-609] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:47:43,133 [Worker-609] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 03:47:43,143 [Worker-609] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:47:43,159 [Worker-609] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:47:43,168 [Worker-609] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-14 03:49:55,441 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:49:55,451 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-14 03:49:55,458 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-14 03:49:55,468 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-14 03:49:55,469 [Worker-618] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-16 11:26:42,114 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.course.bookstore:bookstore.course.com:0.0.1-SNAPSHOT @ C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\pom.xml.
+2017-03-16 11:26:49,397 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-16 11:26:49,420 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-16 11:26:49,457 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-16 11:26:50,079 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-16 11:26:50,079 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-16 11:26:56,306 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fi.haagahelia.demo:SpringBootJDBC:0.0.1-SNAPSHOT @ C:\Users\geredena\Downloads\StudentListJDBC\SpringBootJDBC\pom.xml.
+2017-03-16 11:26:58,397 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-16 11:26:58,397 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-16 11:26:58,412 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-16 11:26:58,444 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-16 11:26:58,444 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Downloads\StudentListJDBC\SpringBootJDBC\src\test\resources
+2017-03-16 11:26:59,506 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fi.haagahelia.course:StudentListCrud:0.0.1-SNAPSHOT @ C:\Users\geredena\Downloads\StudentListOneToMany\StudentList\pom.xml.
+2017-03-16 11:27:00,819 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-16 11:27:00,819 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-16 11:27:00,850 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-03-16 11:27:00,944 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-16 11:27:00,944 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Downloads\StudentListOneToMany\StudentList\src\test\resources
+2017-03-16 11:30:06,449 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-16 11:30:06,465 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-16 11:30:06,496 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-16 11:30:06,512 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-16 11:30:06,527 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources
+2017-03-16 11:36:12,549 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-16 11:36:12,580 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-16 11:36:12,596 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2017-03-16 11:36:12,612 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-16 11:36:12,612 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\geredena\Desktop\STUDIES\ServerProgramming\BookStore\BookStore\src\test\resources

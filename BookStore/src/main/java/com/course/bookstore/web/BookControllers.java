@@ -1,6 +1,7 @@
 package com.course.bookstore.web;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -9,6 +10,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import com.course.bookstore.domain.Book;
 import com.course.bookstore.domain.BookRepository;
+import com.course.bookstore.domain.CategoryRepository;
 
 
 @Controller
@@ -16,6 +18,12 @@ public class BookControllers {
 
 	@Autowired
 	private BookRepository brepository;
+	
+	@Autowired
+	private CategoryRepository crepository;
+	
+	@Autowired
+	JdbcTemplate jdbcTemplate;
 	
 	
 	@RequestMapping(value="/")
@@ -36,10 +44,11 @@ public class BookControllers {
         return "booklist";
     }
     
-    // Add new student
+    // Add new book
     @RequestMapping(value = "/add")
-    public String addStudent(Model model){
+    public String addBook(Model model){
     	model.addAttribute("book", new Book());
+    	model.addAttribute("categories", crepository.findAll());
     	return "addbook";
     }     
     

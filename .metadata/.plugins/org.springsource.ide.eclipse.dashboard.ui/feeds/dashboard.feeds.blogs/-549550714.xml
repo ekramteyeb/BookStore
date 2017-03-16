@@ -5,7 +5,78 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2017-03-10T21:59:02Z</updated>
+  <updated>2017-03-15T01:00:00Z</updated>
+  <entry>
+    <title>Spring Tips: the Spring Web Flux Reactive Client</title>
+    <link rel="alternate" href="https://spring.io/blog/2017/03/15/spring-tips-the-spring-web-flux-reactive-client" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Josh Long</name>
+    </author>
+    <id>tag:spring.io,2017-03-15:2870</id>
+    <updated>2017-03-15T01:00:00Z</updated>
+    <content type="html">&lt;p&gt;Speaker: &lt;a href="https://www.twitter.com/starbuxman"&gt;Josh Long&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hi Spring fans! in this installment, we&amp;rsquo;ll look at the reactive &lt;code&gt;WebClient&lt;/code&gt; and &lt;code&gt;WebTestClient&lt;/code&gt; in Spring Web Flux, the reactive web stack in Spring framework 5, due this summer.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/leZdgr-O4LE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content>
+  </entry>
+  <entry>
+    <title>Webinar: Strategic (Domain Driven) Design with Spring Boot</title>
+    <link rel="alternate" href="https://spring.io/blog/2017/03/14/webinar-strategic-domain-driven-design-with-spring-boot" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2017-03-14:2869</id>
+    <updated>2017-03-14T10:56:00Z</updated>
+    <content type="html">&lt;p&gt;Speaker: Michael Plöd, InnoQ&lt;/p&gt;
+&lt;p&gt;This talk will focus on one of the most precious parts of Domain Driven Design, the concept of Strategic Design, as well as Bounded Context, the Context Map and the patterns that are being documented in the Context Map.&lt;/p&gt;
+&lt;p&gt;An explanation of these principles as well as practical usage scenarios such as migrating a monolithic landscape to microservices is planned for discussion. And, using a hands-on approach, we will demonstrate the concepts surrounding Strategic Design with an application landscape of various Spring Boot Applications&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.brighttalk.com/webcast/14893/250055"&gt;Register now!&lt;/a&gt;&lt;br/&gt;North America&lt;br/&gt;Wednesday, March 29&lt;br/&gt;10:00am PST / 1:00pm EST&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>This Week in Spring - March 14th, 2017</title>
+    <link rel="alternate" href="https://spring.io/blog/2017/03/14/this-week-in-spring-march-14th-2017" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Josh Long</name>
+    </author>
+    <id>tag:spring.io,2017-03-14:2868</id>
+    <updated>2017-03-14T03:52:00Z</updated>
+    <content type="html">&lt;p&gt;Welcome to another installment of &lt;em&gt;This Week in Spring&lt;/em&gt;! This week I&amp;rsquo;m in Chicago on business and preparing for next week, where &lt;a href="http://devoxx.us/"&gt;I&amp;rsquo;ll be at the first Devoxx US event, ever!&lt;/a&gt;. I hope to see you there!&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;last week, I continued the &lt;em&gt;Spring Tips&lt;/em&gt; series with a look at how to &lt;a href="https://spring.io/blog/2017/03/08/spring-tips-server-sent-events-sse"&gt;implement server-sent events using &lt;em&gt;classic&lt;/em&gt; Spring MVC and Spring WebFlux in Spring Framework 5&lt;/a&gt;, due this summer&lt;/li&gt;
+  &lt;li&gt;Last week, Pivotal and Google announced &lt;a href="https://content.pivotal.io/announcements/meet-kubo-bosh-powered-web-scale-release-engineering-for-kubernetes"&gt;Kubo&lt;/a&gt;, the ability to &lt;a href="http://www.infoworld.com/article/3179753/cloud-computing/pivotal-google-team-up-for-kubernetes-cloud-management.html"&gt;run and manage Kubernetes, on top of BOSH, alongside Cloud Foundry.&lt;/a&gt; This means that it&amp;rsquo;s now possible to get support for both Pivotal Cloud Foundry and Kubernetes deployments, supporting cloud native applications and low-level container orchestration equally.&lt;/li&gt;
+  &lt;li&gt;Spring I/O Platform lead Andy Wilkinson announced &lt;a href="https://spring.io/blog/2017/03/07/spring-io-platform-brussels-sr1"&gt;Spring I/O Platform Brussels SR1&lt;/a&gt; and &lt;a href="https://spring.io/blog/2017/03/07/spring-io-platform-athens-sr4"&gt;Spring I/O Platform Athens sr4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Disid has just announced an &lt;a href="https://spring.io/blog/2017/03/07/spring-roo-2-0-rc1-released"&gt;Spring Roo 2.0.RC1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Spring I/O Platform lead Andy Wilkinson just announced an updated revision &lt;a href="https://spring.io/blog/2017/03/09/dependency-management-plugin-1-0-1-release"&gt;of the dependency management plugin Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Spring Integration ninja Artem Bilan just announced an &lt;a href="https://spring.io/blog/2017/03/09/spring-integration-extension-for-aws-1-1-0-m1-available"&gt;updated revision of the Spring Integration extension for AWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Spring Cloud ninja &lt;a href="https://spring.io/blog/2017/03/10/spring-cloud-camden-sr6-is-available"&gt;Ryan Baxter just announced Spring Cloud Camden SR6&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Don&amp;rsquo;t miss Michael Plod on Wednesday March 29th at 10:00am PT, he&amp;rsquo;s going to talk about &lt;a href="https://spring.io/blog/2017/03/14/webinar-strategic-domain-driven-design-with-spring-boot"&gt;Strategic (Domain Driven) Design with Spring Boot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Greg Turnquist has announced that all the &lt;a href="https://twitter.com/gregturn/status/841378891545628675"&gt;Spring guides are now updated to reflect usage with IntelliJ IDEA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;the Spring Security team is cooking up some amazing stuff for OAuth. Check out the &lt;a href="https://github.com/jgrandja/oauth2-samples"&gt;&lt;em&gt;super preliminary&lt;/em&gt;, not-final-at-all look at what&amp;rsquo;s coming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;MuleSoft and Pivotal partner to &lt;a href="https://blogs.mulesoft.com/biz/news/mulesoft-pivotal-announce-solution-to-build-application-networks-on-pivotal-cloud-foundry/"&gt;support application networks between Pivotal Cloud Foundry and MuleSoft AnyPoint&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Baeldung blog has &lt;a href="http://www.baeldung.com/spring-ldap"&gt;a nice look at Spring LDAP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://bosh.io/"&gt;BOSH&lt;/a&gt;, for those that don&amp;rsquo;t know, is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems. It was developed by the Cloud Foundry team (many of whom were former Googlers) to support deploying Cloud Foundry itself. It&amp;rsquo;s the package manager for &lt;em&gt;services&lt;/em&gt;, not servers. It can be used to recreate entire distributed systems from the operating system up, with immutable infrastructure (as opposed to converged infrastructure options like Puppet or Chef). If you&amp;rsquo;re managing a large distributed system, you &lt;em&gt;need&lt;/em&gt; something like this beneath your system. You can also deploy arbitrary other packages, &lt;a href="http://engineering.pivotal.io/post/jmeter-bosh-release/"&gt;like Apache JMeter in distributed mode&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Also announced last week, Google&amp;rsquo;s CRE support and reliability engineers and Pivotal have &lt;a href="https://www.forbes.com/sites/alexkonrad/2017/03/08/google-cloud-brings-reliability-engineers-to-customers/#5c2aa1c05ab0"&gt;tag-teamed to support and certify Pivotal Cloud Foundry running on Google Cloud&lt;/a&gt;. To appreciate why this is so important, it means that &lt;a href="http://fortune.com/2017/03/07/pivotal-cloud-foundry-growth/"&gt;Pivotal Cloud Foundry&lt;/a&gt; - which is becoming &lt;a href="http://fortune.com/2017/03/07/pivotal-cloud-foundry-growth/"&gt;more and more white-hot&lt;/a&gt; by the day - now bakes in Google&amp;rsquo;s best practices for &lt;em&gt;site reliability engineering&lt;/em&gt;, &lt;a href="https://medium.com/@jerub/tenets-of-sre-8af6238ae8a8#.ixagtgbqa"&gt;as described here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Michael Gruczel put together a nice look at building &lt;a href="https://jaxenter.de/spring-boot-tutorial-54020"&gt;REST APIs with Spring Boot in this German language post&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I liked Stefan Pröll&amp;rsquo;s &lt;a href="https://blog.stefanproell.at/2017/03/10/hibernate-search-and-spring-boot/"&gt;posts&lt;/a&gt; introducing &lt;a href="https://blog.stefanproell.at/2017/03/12/using-hibernate-search-with-spring-boot/"&gt;using Hibernate Search and Spring Boot together&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Not particularly related to Pivotal, I enjoyed this post from Eric Brewer - father of the CAP theorem - &lt;a href="https://cloudplatform.googleblog.com/2017/02/inside-Cloud-Spanner-and-the-CAP-Theorem.html"&gt;framing how CAP applies to Google&amp;rsquo;s Spanner database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I really enjoyed &lt;a href="https://jaxenter.com/technology-trends-2017-top-frameworks-131993.html"&gt;this JAX survey report detailing the frameworks in which people have the most interest&lt;/a&gt;. Spring MVC and Spring Boot take the top spots in their respective categories. Thanks so much, Java community!&lt;/li&gt;
+  &lt;li&gt;Check out this talk introducing Apache Geode &lt;a href="https://dzone.com/articles/spring-data-and-in-memory-data-management-in-action"&gt;by Spring Data for Apache Geode contributors John Blum and Luke Shannon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Couchbase developer advocate Laurent Doguin put together a &lt;a href="https://blog.couchbase.com/testing-spring-data-couchbase-applications-with-testcontainers/"&gt;nice look at testing Spring Data Couchbase applications with Test Containers and Spring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;This Russian language &lt;a href="https://alexkosarev.name/2017/02/09/spring-data-jpa-magic-methods/"&gt;post by Alexander Kosarev nicely introduces Spring Data repository method tricks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I liked Oracle senior application engineer Orlando L. Otero&amp;rsquo;s post &lt;a href="http://tech.asimio.net/2017/03/06/Multi-version-Service-Discovery-using-Spring-Cloud-Netflix-Eureka-and-Ribbon.html#running-the-demo-service-2"&gt;on multi-version service discovery using Spring Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;this was a &lt;em&gt;very&lt;/em&gt; short-n-sweet look &lt;a href="https://www.youtube.com/watch?v=nWR26lEHyCg"&gt;at Spring Boot&amp;rsquo;s DevTools and live-reload support&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kevin Hooke put together a nice look at &lt;a href="https://dzone.com/articles/building-a-spring-boot-restcontroller-to-search-re"&gt;using Spring Data Redis to build a search endpoint over REST&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;John Thompson put together a nice look &lt;a href="https://dzone.com/articles/configuring-spring-boot-for-microsoft-sql-server"&gt;at using Spring Boot with Microsoft SQL Server&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Oliver Antoine put together a nice &lt;a href="https://www.arexo.be/blog/writing-integration-tests-spring-boot-cassandra-2-minutes/"&gt;look at integration testing Spring Data Cassandra applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Check out the slides and &lt;a href="https://github.com/nfrankel/spring-boot-starter-xstream"&gt;code&lt;/a&gt; to our friend Nicolas Frankel&amp;rsquo;s talk, &lt;a href="https://www.slideshare.net/nfrankel/jdays-spring-boot-under-the-hood"&gt;Spring Boot Under the Hoode&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;this Tech Primer video on using &lt;a href="https://www.youtube.com/watch?v=bYiNlCaaRiI"&gt;Spring Data ElasticSearch seemed interesting&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Iam Djalas looks at how to &lt;a href="https://www.youtube.com/watch?v=ZA9WpK-lxXM"&gt;configure Spring Boot to talk to different databases using profiles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Auth0 has a nice post &lt;a href="https://auth0.com/blog/securing-spring-boot-with-jwts/"&gt;on configuring Spring Boot to work with a third-party JWT implementation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;to our friends at &lt;a href="https://stormpath.com/blog/stormpaths-new-path"&gt;Stormpath, congratulations on joining forces with Okta!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>Spring Cloud Camden.SR6 is available</title>
     <link rel="alternate" href="https://spring.io/blog/2017/03/10/spring-cloud-camden-sr6-is-available" />
@@ -580,86 +651,5 @@ Flux&amp;lt;Person&amp;gt; getPersons() {&#xD;
 &lt;p&gt;On another front, 5.0 M5 finally introduces a dedicated name for our reactive web framework: It is my pleasure to publicly announce &lt;em&gt;Spring WebFlux&lt;/em&gt;, with the &lt;code&gt;spring-web-reactive&lt;/code&gt; module renamed to &lt;code&gt;spring-webflux&lt;/code&gt; now! (Please adjust your dependency setup accordingly.)&lt;/p&gt;
 &lt;p&gt;Please see Rossen&amp;rsquo;s &lt;a href="https://spring.io/blog/2017/02/23/spring-framework-5-0-m5-update"&gt;dedicated blog post&lt;/a&gt;, highlighting the latest and greatest around our WebFlux story and also the &lt;a href="https://spring.io/blog/2017/02/22/reactor-aluminium-sr1-has-landed"&gt;Reactor Aluminium-SR1 release&lt;/a&gt; announcement&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Cheers,&lt;br/&gt;Juergen&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Spring Cloud Data Flow for Cloud Foundry 1.1.1 Maintenance release available</title>
-    <link rel="alternate" href="https://spring.io/blog/2017/02/22/spring-cloud-data-flow-for-cloud-foundry-1-1-1-maintenance-release-available" />
-    <category term="releases" label="Releases" />
-    <author>
-      <name>Eric Bottard</name>
-    </author>
-    <id>tag:spring.io,2017-02-22:2848</id>
-    <updated>2017-02-22T14:31:36Z</updated>
-    <content type="html">&lt;div class="paragraph"&gt;
-&lt;p&gt;The 1.1.1.RELEASE maintenance release of Spring Cloud Data Flow for Cloud Foundry is now available and includes a variety of stability and performance improvements. Following are the highlights:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="ulist"&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Stability Improvements&lt;/strong&gt;
-The instability problems when using SCDF’s 1.1.0.RELEASE on PCF manifested to the users in the following forms.&lt;/p&gt;
-&lt;div class="ulist"&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;stream list&lt;/code&gt; operation would hang and eventually time out with “IllegalStateException: 503 Bad Gateway” or “IllegalStateException: Timeout on block read” exceptions. This is addressed in the cf-java-client library.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;With SCDF server sitting cold/idle for a period of time and with OAUTH token refresh routine happening in the background, any new operation to the server would never complete. The OAUTH refresh token routine had a bug in successfully negotiating for new tokens. This is addressed in the cf-java-client library.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Error Handling Improvements&lt;/strong&gt;
-The improved error handling and logging support include the operations and its call chain details. This is especially useful when performing 100s of stream/task operations in SCDF, and if anything fails in the process, it will be easy to correlate and determine the root-cause more efficiently. There has been error handling improvements in SCDF&amp;#8217;s cf-deployer, cf-java-client, and reactor-core projects.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Network Call Optimizations&lt;/strong&gt;
-While invoking &lt;code&gt;stream list&lt;/code&gt; from the shell or navigating to the equivalent stream list page in the Dashboard, we were performing a network call for each application associated with the stream(s). This is now refactored and replaced to efficiently query for all the application statuses in a single network call if the backing runtime supports it (and the Cloud Foundry deployer certainly does). This change significantly improves the user-experience of the stream listing operation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Stress/Load Testing&lt;/strong&gt;
-In the process of addressing above mentioned instability patterns, we have built a comprehensive integration and acceptance test harness. With the load-testing routines simulating 100s of concurrent operations on the server including “stream creates”, “stream deploys”, “stream destroys”, and “stream lists”, we were able to monitor the overall health of the SCDF server and as well correlate to confirm the successful execution of operations in entirety.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;For more details on the &lt;a href="https://github.com/spring-cloud/spring-cloud-deployer-cloudfoundry"&gt;CF-deployer&lt;/a&gt; and &lt;a href="https://github.com/spring-cloud/spring-cloud-dataflow-server-cloudfoundry"&gt;CF-server&lt;/a&gt; improvements, please refer to the respective release markers &lt;a href="https://github.com/spring-cloud/spring-cloud-deployer-cloudfoundry/milestone/11?closed=1"&gt;here&lt;/a&gt; and &lt;a href="https://github.com/spring-cloud/spring-cloud-dataflow-server-cloudfoundry/milestone/13?closed=1"&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Reactor Aluminium-SR1 has landed</title>
-    <link rel="alternate" href="https://spring.io/blog/2017/02/22/reactor-aluminium-sr1-has-landed" />
-    <category term="releases" label="Releases" />
-    <author>
-      <name>Stephane Maldini</name>
-    </author>
-    <id>tag:spring.io,2017-02-22:2847</id>
-    <updated>2017-02-22T12:38:00Z</updated>
-    <content type="html">&lt;p&gt;A batch update of releases has arrived and it is brought to you with the new &lt;code&gt;Aluminium-SR1&lt;/code&gt; &lt;a href="https://github.com/reactor/reactor"&gt;Bill Of Material&lt;/a&gt;. Just in time for &lt;a href="https://spring.io/blog/2017/02/23/spring-framework-5-0-m5-released"&gt;Spring Framework M5&lt;/a&gt; !&lt;/p&gt;&lt;h1&gt;&lt;a href="#reactor-core-3-0-5" class="anchor" name="reactor-core-3-0-5"&gt;&lt;/a&gt;Reactor-Core 3.0.5&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://github.com/reactor/reactor-core/releases/tag/v3.0.5.RELEASE"&gt;release notes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;An important quality update with new features including predicated-based windows and the &lt;code&gt;checkpoint&lt;/code&gt; operator, fixes, test coverage and for the first time in 3.0.x line, a &lt;a href="http://projectreactor.io/docs/core/release/reference/docs/index.html"&gt;draft reference guide&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We are now working on &lt;code&gt;3.0.6.RELEASE&lt;/code&gt; which is going to be our last major 3.0 content update before &lt;code&gt;3.1.0.RELEASE&lt;/code&gt;. We encourage our Spring Community to just follow deprecated instructions if they hit any of the &lt;code&gt;@Deprecated&lt;/code&gt; API, thus simply preparing for a quick, painless, upgrade when time comes. Have a look at our &lt;a href="http://github.com/reactor/reactor-core/issues"&gt;issues backlog&lt;/a&gt; for a more detailed scope.&lt;/p&gt;&lt;h1&gt;&lt;a href="#reactor-addons-3-0-5" class="anchor" name="reactor-addons-3-0-5"&gt;&lt;/a&gt;Reactor Addons 3.0.5&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://github.com/reactor/reactor-addons/releases/tag/v3.0.5.RELEASE"&gt;release notes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Improvements have been made to &lt;code&gt;reactor-test&lt;/code&gt; to support dropped data/exception testing via post verification assertions. Addons being tightly coupled to reactor-core, we always synchronize with its releases and scope isolated stories in between.&lt;/p&gt;
-&lt;p&gt;We are now working on &lt;code&gt;3.0.6.RELEASE&lt;/code&gt;. We will include at least one new add-on (*reactor-math*) and continue polishing test support. Additional on-going research is also spent on having a public operator TCK that would offer contributors or other library developers a sane way to stress their implementation in the face of many sequencing/optimization scenarios.&lt;/p&gt;&lt;h1&gt;&lt;a href="#reactor-netty-0-6-1" class="anchor" name="reactor-netty-0-6-1"&gt;&lt;/a&gt;Reactor Netty 0.6.1&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://github.com/reactor/reactor-netty/releases/tag/v0.6.1.RELEASE"&gt;release notes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;A recommended update that fixes most of the issues faced since the introduction of &lt;em&gt;client connection pooling&lt;/em&gt; mode in &lt;code&gt;0.6.0.RELEASE&lt;/code&gt; which is enabled by default . New features include &lt;code&gt;NettyContext&lt;/code&gt; pipeline operators and proxy support in connection pools. &lt;/p&gt;
-&lt;p&gt;We are now working on &lt;code&gt;0.6.2.RELEASE&lt;/code&gt;. Numerous improvements are planned in the SPI and a focus on quality will certainly bring its lot of fixes as well. Our goal is to cover and review use cases given the continuous feedbacks we receive for instance from the &lt;a href="https://github.com/cloudfoundry/cf-java-client"&gt;Cloud Foundry Java Client&lt;/a&gt; and &lt;a href="https://github.com/spring-projects/spring-framework"&gt;Spring Framework&lt;/a&gt; teams.&lt;/p&gt;&lt;h1&gt;&lt;a href="#site-updates" class="anchor" name="site-updates"&gt;&lt;/a&gt;Site updates&lt;/h1&gt;
-&lt;p&gt;prod: &lt;a href="http://projectreactor.io"&gt;http://projectreactor.io&lt;/a&gt;&lt;br/&gt;snapshot: &lt;a href="http://next.projectreactor.io"&gt;http://next.projectreactor.io&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In the past weeks we faced several documentation hosting issues and we envision to migrate documentation content to a more dedicated host. Still the site has welcome some fixes and polishes including a new &lt;a href="http://projectreactor.io/learn"&gt;learn&lt;/a&gt; section and a &lt;a href="http://projectreactor.io/docs"&gt;new project list&lt;/a&gt; styling that works on mobile. It also exposes the new &lt;a href="http://projectreactor.io/docs/core/release/reference/docs/index.html"&gt;Reactor Core guide&lt;/a&gt;. Many thanks to &lt;a href="https://twitter.com/oodamien"&gt;Damien Vitrac&lt;/a&gt; for the style contributions !&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Spring Tips: Apache MyBatis</title>
-    <link rel="alternate" href="https://spring.io/blog/2017/02/22/spring-tips-apache-mybatis" />
-    <category term="engineering" label="Engineering" />
-    <author>
-      <name>Josh Long</name>
-    </author>
-    <id>tag:spring.io,2017-01-26:2812</id>
-    <updated>2017-02-22T00:01:00Z</updated>
-    <content type="html">&lt;p&gt;Speaker: &lt;a href="https://www.twitter.com/starbuxman"&gt;Josh Long&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hi Spring fans! In this tip, we&amp;rsquo;ll look at mapping objects to and from SQL using Apache MyBatis and Spring Boot&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JyythoOXdbU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content>
   </entry>
 </feed>
