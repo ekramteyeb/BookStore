@@ -1,0 +1,30 @@
+package com.course.customerList.web;
+
+import java.util.List;
+import java.util.Map;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+public class CustomerController {
+
+	@Autowired
+    private JdbcTemplate jdbcTemplate;
+	
+	@RequestMapping(value="/")
+    public String index(){
+    	
+    	return "welcome";
+    }
+    @RequestMapping(value="/customerlist")
+    public String studentList(Model model) {	
+        // Fetch all customers
+        List<Map<String, Object>> customers = jdbcTemplate.queryForList("select firstName, lastName, address, phoneNumber from customer");
+        
+        // Add customer list to model and return to view
+        model.addAttribute("customers", customers);
+        return "customerlist";
+}
+}

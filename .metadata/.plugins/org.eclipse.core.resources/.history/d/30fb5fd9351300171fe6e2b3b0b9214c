@@ -1,0 +1,5 @@
+package fi.haagahelia.demo.domain;
+
+public @interface repository {
+
+}

@@ -1,0 +1,17 @@
+package fi.haagahelia.demo.domain;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import javax.swing.tree.RowMapper;
+
+public class StudentRowMapper implements RowMapper <Student> {
+
+	public Student mapRow(ResultSet rs, int rowNum) throws SQLException {
+	Student student = new Student();
+	student.setId(rs.getInt("id"));
+	student.setFirstName(rs.getString("name"));
+	student.setLastName(rs.getString("email"));
+	return student;
+}
+}

@@ -1,5 +1,0 @@
-package com.course.bookstore.domain;
-
-public interface CategoryRepository {
-
-}

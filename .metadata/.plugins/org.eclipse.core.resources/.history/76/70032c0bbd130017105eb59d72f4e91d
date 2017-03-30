@@ -1,0 +1,5 @@
+package com.course.customerList.domain;
+
+public class CustomerRepository {
+
+}

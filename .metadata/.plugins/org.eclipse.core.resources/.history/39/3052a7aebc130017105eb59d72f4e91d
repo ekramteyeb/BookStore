@@ -1,0 +1,24 @@
+package com.course.customerList.domain;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import org.springframework.dao.DataAccessException;
+import org.springframework.jdbc.core.ResultSetExtractor;
+
+public class CustomerRowMapper implements RowMapper<Customer> {
+
+	
+	public Customer extractData(ResultSet rs, int rowNum) throws SQLException,
+			DataAccessException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
+//public Student mapRow(ResultSet rs, int rowNum) throws SQLException {
+//	Student student = new Student();
+//	student.setId(rs.getInt("id"));
+//	student.setFirstName(rs.getString("firstName"));
+//	student.setLastName(rs.getString("lastName"));
+//	return student;

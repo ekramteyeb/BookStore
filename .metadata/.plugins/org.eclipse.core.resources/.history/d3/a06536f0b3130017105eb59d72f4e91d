@@ -1,0 +1,28 @@
+package com.course.customerList;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.jdbc.core.JdbcTemplate;
+
+@SpringBootApplication
+public class CustomerListApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CustomerListApplication.class, args);
+	}
+	
+	@Autowired
+	public CommandLineRunner demo(JdbcTemplate jdbcTemplate) {
+		return (args) -> {
+			// Database is created by using resources/schema.sql
+			
+			// Insert some demo data
+	        jdbcTemplate.update("insert into Student(firstName, lastName) values (?, ?)", "John", "West");
+	        jdbcTemplate.update("insert into Student(firstName, lastName) values (?, ?)", "Mike", "Mars");
+	        jdbcTemplate.update("insert into Student(firstName, lastName) values (?, ?)", "Kate", "Johnson");
+	
+		};
+	}	
+}
